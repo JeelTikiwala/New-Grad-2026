@@ -6,9 +6,8 @@ A curated list of New Grad 2026 roles in Canada.
 
 ## 📌 Job Applications
 
-| Company | Role | Location | Application/Link |
-| --- | --- | --- | :---: |
-
+| Company | Role | Location | Application/Link | Status |
+| --- | --- | --- | :---: | :---: |
 | **Manulife** | Graduate Recruitment Opportunities (Technology) – Waterloo | Waterloo, Canada | <a href="https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Waterloo-Ontario/Graduate-Recruitment-Opportunities--GRO----Technology--Waterloo-_JR25071403"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> |
 | **Manulife** | Graduate Recruitment Opportunities (Technology) – Toronto | Toronto, Canada | <a href="https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Toronto-Ontario/Graduate-Recruitment-Opportunities--GRO----Technology--Toronto-_JR25071402"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> |
 | **KPMG** | Student/Graduate Roles | Toronto, Canada | <a href="https://careers.kpmg.ca/students/jobs/28812?lang=en-us"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> |
@@ -43,4 +42,3 @@ A curated list of New Grad 2026 roles in Canada.
 | **Deloitte** | Java Developer, Operate (Future Opportunity) |  | <a href="https://careers.deloitte.ca/job/Toronto%2C-ON-Java-Developer%2C-Operate-%28Future-Opportunity%29-ON-M5C-3G7/1244249400/?utm_source=LINKEDIN&utm_medium=referrer&?src=JB-12762"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> |
 | **Ciena** | Integrated Test Engineer - 2025/2026 New Grads |  | <a href="Integrated Test Engineer - 2025/2026 New Grads"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> |
 | **CIBC** | Jr. Application Developer (New Grads) |  | <a href="https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Sr-Application-Developer_2516558?src=SNS-10261"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> |
-
